@@ -149,3 +149,7 @@ h3 {
     color: #721c24;
     background-color: #f8d7da;
 }
+
+pre {
+    font-family: "Hiragino Kaku Gothic Pro",Meiryo,"MS PGothic",Helvetica,Arial,sans-serif;
+}
